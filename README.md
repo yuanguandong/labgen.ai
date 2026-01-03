@@ -1,4 +1,4 @@
-![https://labgen.ai](./public/shot.png)
+![https://labgen.ai](https://github.com/yuanguandong/labgen.ai/blob/main/public/shot.png?raw=true)
 # Labgen
 
 > Turn AI images into reusable prompts.
