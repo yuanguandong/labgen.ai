@@ -1,3 +1,5 @@
+![https://labgen.ai](./public/shot.png)
+
 One of the most common frustrations in AI image generation is surprisingly simple:
 
 > You see an amazing image — but you have no idea how the prompt was written.
