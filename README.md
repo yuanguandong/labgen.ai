@@ -1,313 +1,138 @@
 ![https://labgen.ai](./public/shot.png)
+# Labgen
 
-One of the most common frustrations in AI image generation is surprisingly simple:
+> Turn AI images into reusable prompts.
 
-> You see an amazing image — but you have no idea how the prompt was written.
+Labgen is a practical **image-to-prompt** tool that helps creators, designers, and AI artists
+reverse-engineer prompts from images instead of guessing from scratch.
 
-This happens whether you’re using **Nano Banana**, **Seedream**, **Midjourney**, or newer models like **Flux**……
-You scroll through Twitter (X), ArtStation, or Discord, saving image after image — yet when it’s time to create your own, you’re stuck staring at an empty prompt box.
-
-I’ve been there.  
-That frustration is exactly why **Labgen** exists.
+👉 https://labgen.ai
 
 ---
 
-## 1. The Biggest Misconception About Learning Prompts
+## Why Labgen?
 
-Most people try to learn prompting the same way:
+If you use **Midjourney**, **Nano Banana**, **Seedream**, or other AI image models,
+you’ve probably experienced this:
 
-- Start from scratch  
-- Memorize prompt templates  
-- Collect style keywords  
-- Experiment endlessly with trial and error  
+- You see an amazing AI-generated image
+- You save it for inspiration
+- But you have no idea how the prompt was written
 
-While these approaches aren’t wrong, they’re inefficient.
+Prompting is a learnable skill — but guessing prompts is not how people actually learn.
 
-The truth is:
+Labgen is built around a simple idea:
 
-> The fastest way to learn prompts is not writing them —  
-> it’s **reverse-engineering real results**.
-
-Think about how people learn other creative skills:
-
-- Designers study great layouts  
-- Writers analyze well-written articles  
-- Photographers deconstruct lighting and composition  
-
-Prompting is no different.  
-It’s a structured skill, not magic.
+> **The fastest way to learn prompts is to reverse-engineer real images.**
 
 ---
 
-## 2. Why “Guessing Prompts” Almost Always Fails
+## What Labgen Does
 
-You may have tried this:
+Labgen analyzes an image and generates a **structured, reusable prompt** that you can:
 
-- Look at an image  
-- Describe what you see  
-- Add style words  
-- Adjust parameters again and again  
+- Study to understand prompt structure
+- Reuse as a starting point
+- Modify and iterate for your own creations
 
-And still… the result looks nothing like the original.
-
-Why?
-
-### Humans Miss Hidden Details
-
-AI images contain subtle elements:
-
-- Lighting direction  
-- Material descriptions  
-- Camera perspective  
-- Style combinations  
-
-Your brain filters these out automatically.
-
-### Prompts Are Not Natural Language
-
-Prompt quality depends heavily on:
-
-- Token selection  
-- Order of concepts  
-- Implicit weighting  
-
-A small wording change can completely alter the output.
-
-### Models Recognize Patterns Humans Don’t
-
-Many strong results come from:
-
-- Reusable structures  
-- Established prompt “recipes”  
-- Model-specific phrasing  
-
-Guessing is fighting the model.  
-Understanding is working with it.
+It focuses on **clarity and usefulness**, not generic descriptions.
 
 ---
 
-## 3. The Breakthrough: Image → Prompt
+## Core Features
 
-Eventually, I stopped asking:
-
-> “How do I write better prompts?”
-
-And started asking:
-
-> “How was **this image** prompted?”
-
-That shift changed everything.
-
-Instead of starting from a blank prompt, I started from finished images and worked backwards.
-
-This method — **Image → Prompt** — makes learning dramatically faster because:
-
-- You see real-world prompt structures  
-- You understand why certain words matter  
-- You learn composition, lighting, and style together  
-
-This idea became the foundation of **Labgen**.
+- 🖼️ **Image → Prompt**
+  - Upload an image and get a detailed prompt
+- 🎯 **Optimized for Modern AI Image Models**
+  - Works well with Midjourney, Nano Banana, Seedream, and similar tools
+- ⚡ **Fast & Simple**
+  - No login required
+  - Clean, minimal interface
+- 🧠 **Learning-Oriented**
+  - Designed to help you understand *why* prompts work
 
 ---
 
-## 4. What Labgen Is (And What It Isn’t)
+## Chrome Extension
 
-Labgen is built to do one thing extremely well:
+Labgen also provides a **Chrome extension** for a smoother workflow.
 
-> **Turn images into reusable prompts.**
+With the extension, you can:
 
-It’s not:
+- Right-click any image while browsing
+- Send it directly to Labgen
+- Generate prompts without leaving the page
 
-- A generic AI platform  
-- Another text-to-image generator  
-- A bloated all-in-one dashboard  
-
-Instead, Labgen focuses on:
-
-- Image-to-prompt analysis  
-- Clean, readable prompt output  
-- Practical use for real creators  
-
-You upload an image.  
-Labgen analyzes it.  
-You get a structured prompt you can reuse or refine.
+This makes it easy to study AI images from:
+- Twitter (X)
+- ArtStation
+- Pinterest
+- Discord
+- Any website
 
 ---
 
-## 5. Learning Prompts by Studying Real Images
+## More Than One Tool
 
-One of the most powerful uses of Labgen is education.
+While image-to-prompt is the core feature, Labgen is evolving into a small collection of
+**focused AI tools for creators**.
 
-Instead of memorizing prompt guides, you can:
+Each tool follows the same principles:
+- One clear purpose
+- Minimal UI
+- Practical workflows
+- No unnecessary complexity
 
-- Upload images you admire  
-- Study how prompts are structured  
-- Compare different styles and compositions  
-
-Over time, patterns become obvious:
-
-- Why certain descriptors come early  
-- How lighting influences mood  
-- How composition keywords affect framing  
-
-This transforms prompt writing from guesswork into understanding.
+Labgen is not trying to be an “everything AI platform” —
+it’s a growing toolbox built for real use.
 
 ---
 
-## 6. Recreating Styles Without Endless Trial and Error
+## Who Is This For?
 
-Another major benefit of image-to-prompt tools is **style recreation**.
+Labgen is useful if you are:
 
-Many creators struggle with consistency:
+- Learning AI image generation
+- Studying prompt structures
+- Using models like Midjourney, Nano Banana, or Seedream
+- Trying to recreate styles consistently
+- Iterating on visual ideas faster
 
-- One good image, then randomness  
-- Difficulty recreating a specific aesthetic  
-
-Labgen doesn’t promise perfect duplication — and that’s intentional.
-
-What it gives you is:
-
-- A strong starting point  
-- A reliable structure  
-- A prompt you can iterate on  
-
-This alone can save hours of experimentation.
+You don’t need to be an expert — beginners often benefit the most.
 
 ---
 
-## 7. From Inspiration to Action
+## How to Use
 
-Before using image-to-prompt tools, inspiration often stops at “saving images.”
-
-With Labgen:
-
-- Inspiration becomes actionable  
-- Images become learning materials  
-- Prompt knowledge compounds over time  
-
-Every image you analyze makes the next one easier.
+1. Find an AI-generated image you like
+2. Go to https://labgen.ai
+3. Upload the image (or use the Chrome extension)
+4. Review the generated prompt
+5. Reuse or refine it in your favorite model
 
 ---
 
-## 8. The Labgen Chrome Extension: Prompts Wherever You Browse
+## Philosophy
 
-While the web tool works great, I noticed a pattern:
+Prompting is not magic.
 
-Most people discover AI images **while browsing**.
+It’s closer to:
+- Design systems
+- Writing frameworks
+- Photographic composition
 
-Twitter (X), ArtStation, Pinterest, Discord — inspiration is everywhere.
-
-That’s why Labgen also offers a **Chrome extension**.
-
-### What the Chrome Extension Does
-
-- Right-click or select an image  
-- Instantly send it to Labgen  
-- Generate prompts without leaving the page  
-
-No copying URLs.  
-No downloading images manually.  
-No breaking your creative flow.
-
-This turns the entire internet into a prompt-learning playground.
+Labgen exists to make prompt structure **visible and understandable**.
 
 ---
 
-## 9. Labgen Is More Than One Tool
+## Links
 
-Although image-to-prompt is the core, Labgen is evolving into something bigger:
-
-> A practical collection of AI tools for creators.
-
-Alongside image-to-prompt, Labgen includes other focused AI utilities designed around real workflows — not hype.
-
-The philosophy is simple:
-
-- Each tool does one thing well  
-- No unnecessary complexity  
-- Built for speed and clarity  
-
-Rather than chasing trends, Labgen focuses on usefulness.
+- Website: https://labgen.ai
+- Chrome Extension: https://chromewebstore.google.com/detail/image-to-prompt-descripti/bkijhcecgicmphmeegkgomplkpfmecic?hl=en_us
+- Image to Prompt Tool: https://labgen.ai
 
 ---
 
-## 10. Who Is Labgen For?
+## License
 
-Labgen is especially useful if you are:
-
-- An AI art beginner learning prompt structure  
-- A creator seeking faster iteration  
-- A designer studying visual styles  
-- A prompt engineer refining consistency  
-- Anyone using Stable Diffusion, Midjourney, or Flux  
-
-You don’t need to be an expert.  
-In fact, the earlier you use it, the more value you’ll get.
-
----
-
-## 11. Why Simplicity Matters
-
-One deliberate choice behind Labgen is simplicity.
-
-- No mandatory login  
-- No cluttered interfaces  
-- No overwhelming settings  
-
-Because Labgen isn’t meant to replace creativity —  
-it’s meant to **support learning**.
-
-Open it.  
-Upload an image.  
-Study the prompt.
-
-That’s the experience.
-
----
-
-## 12. Prompting Is a Learnable Skill
-
-Prompting is often described as “prompt engineering,” but it’s closer to:
-
-- Design systems  
-- Writing frameworks  
-- Photographic composition  
-
-It’s structured, repeatable, and learnable.
-
-Labgen exists to make that structure visible.
-
----
-
-## 13. How to Get Started
-
-If you want to try this approach:
-
-1. Find an AI-generated image you genuinely like  
-2. Go to https://labgen.ai  
-3. Upload the image (or use the Chrome extension)  
-4. Read the generated prompt  
-5. Reuse or adapt it in your favorite model  
-
-Most people notice improvement almost immediately.
-
----
-
-## 14. Final Thoughts
-
-Labgen isn’t here to replace creativity.
-
-It’s here to remove unnecessary friction.
-
-If you’re tired of:
-
-- Guessing prompts  
-- Repeating trial-and-error  
-- Feeling stuck despite good inspiration  
-
-Try starting from images instead of blank prompts.
-
-**Image → Prompt**  
-That small shift changes everything.
-
-https://labgen.ai
+This repository is provided for informational and product documentation purposes.
