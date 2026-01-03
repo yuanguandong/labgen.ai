@@ -128,8 +128,10 @@ Labgen exists to make prompt structure **visible and understandable**.
 ## Links
 
 - Website: https://labgen.ai
-- Chrome Extension: https://chromewebstore.google.com/detail/image-to-prompt-descripti/bkijhcecgicmphmeegkgomplkpfmecic?hl=en_us
-- Image to Prompt Tool: https://labgen.ai
+- Chrome Extension: https://labgen.ai/chrome-extension
+- Image to Prompt Tool: https://labgen.ai/image-to-prompt-generator
+- Text to Image Tool: https://labgen.ai/text-to-image-generator
+- Image To Image Tool: https://labgen.ai/image-to-image-generator
 
 ---
 
